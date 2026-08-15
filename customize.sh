@@ -14,7 +14,7 @@ on_install() {
   ui_print "- מתחיל התקנה עבור נגן M36..."
   ui_print "- מכין קבצי אנימציה ב-product/media..."
   ui_print "- מעתיק קובץ לוגו (logo.bin) למערכת..."
-  ui_print "- שים לב: נדרשים 2 ריבוטים לסיום התהליך!" [cite: 2, 4]
+  ui_print "- שים לב: נדרשים 2 ריבוטים לסיום התהליך!"
 }
 
 set_permissions() {
