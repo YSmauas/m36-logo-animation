@@ -1,4 +1,4 @@
-# M36 Logo & Animation Changer - V2.0 (Safe Edition)
+# M36 Logo & Animation Changer - V2.0
 
 ___
 
@@ -50,6 +50,5 @@ ___
 
 לכל שאלה או בקשה ניתן לפנות למייל שלי- ysrlmyrmws1@gmail.com 
 
-לפרופיל שלי במתמחים טופ.
 
 
